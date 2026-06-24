@@ -1,4 +1,4 @@
-# 🚀 CreditCore: Next-Gen Loan Lifecycle & Ledger System
+# 🚀 LendSphere: Next-Gen Loan Lifecycle & Ledger System
 
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-**CreditCore** is a powerful backend system that simulates a real-world micro-lending platform. It manages the complete loan lifecycle with strict financial correctness, robust auditability, and production-grade safeguards. 
+**LendSphere** is a powerful backend system that simulates a real-world micro-lending platform. It manages the complete loan lifecycle with strict financial correctness, robust auditability, and production-grade safeguards. 
 
 Built with enterprise-ready architecture in mind, this project emphasizes **backend engineering depth**, precision arithmetic, and secure operations.
 
@@ -99,13 +99,3 @@ The system is designed with a clear separation of concerns:
 9. **Close:** Loan auto-closes upon full repayment.
 
 ---
-
-## 👨‍💻 Author & Contact
-
-**Developed meticulously by Srithesh.**
-
-- **GitHub:** [@srithesh](https://github.com/code2srithesh)
-- **Role:** Backend | AI-Systems & Software Engineer
-- **Project:** CreditCore - Next-Gen Lending Engine
-
-> *"Building reliable, scalable, and mathematically precise backend architectures."*
